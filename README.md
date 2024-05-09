@@ -24,7 +24,7 @@ __________________________
 
 >git clone https://github.com/tyco-core
 
-## Go to your source folder, 'heco-chain' is just an example go inside your folder name using below command
+## Go to your source folder, 'tyco-core' is just an example go inside your folder name using below command
 
 >cd tyco-core
 
@@ -118,7 +118,7 @@ _________________________
 
 [note here tmux session name is 'SES1' ] 
 
-	cd /heco-chain/build/bin
+	cd /tyco-core/build/bin
 	
 	if tmux has-session -t SES1 > /dev/null 2>&1; then
         :
