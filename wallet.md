@@ -1,6 +1,6 @@
 # Summary
 
-Tyco support metamask、huobi wallet app、TokenPocket etc.
+Tyco support metamask、Tycoon wallet app、TokenPocket etc.
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
@@ -13,9 +13,9 @@ add custom network：
 download url：https://metamask.io/
 
 ```
-chainid: 128
-rpc: https://http-mainnet.tycoscan.com
-scan: https://tycoinfo.com
+chainid: 3630
+rpc: https://mainnet-rpc.tycoscan.com
+scan: https://mainnet.tycoscan.com
 ```
 
 ![metamask](../images/metamask2_en.png)
@@ -23,16 +23,9 @@ scan: https://tycoinfo.com
 ## testnet
 
 ```
-chainid: 256
-rpc: https://http-testnet.tycoscan.com
-scan: https://testnet.tycoinfo.com
+chainid: 3640
+rpc: https://testnet-rpc.tycoscan.com
+scan: https://testnet.tycoscan.com
 ```
 
-# huobi wallet app
 
-https://www.huobiwallet.com/
-
-
-# cointtype for Tyco
-
-https://github.com/satoshilabs/slips/blob/master/slip-0044.md

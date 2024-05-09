@@ -2,11 +2,11 @@
 
 ## chainid
 ```
-256
+3640
 ```
 ## rpc
 ```
-https://http-testnet.tycoscan.com
+https://testnet-rpc.tycoscan.com
 wss://ws-testnet.tycoscan.com
 ```
 
@@ -18,5 +18,5 @@ https://testnet.tycoinfo.com/
 ## faucet
 
 ```
-https://scan-testnet.tycoscan.com/faucet
+https://faucet.tycoscan.com/
 ```

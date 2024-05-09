@@ -1,7 +1,7 @@
 # TYCO Chain
 
 ## Introduction to TYCO Chain
-TYCO Chain (Tyco) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Tyco is HT and it adopts the HPoS consensus mechanism. Tyco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+TYCO Chain (Tyco) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Tyco is TYCO and it adopts the HPoS consensus mechanism. Tyco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
@@ -10,7 +10,7 @@ To help developers’ evolvement at every stage
 Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Tyco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Tyco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
 ## Tyco’s Performance
-- TPS: 2000+
+- TPS: 200000+
 - Average block interval: 3s
 
 ## Consensus Mechanism
@@ -19,9 +19,9 @@ HPoS consensus mechanism: it has the characteristics of low transaction cost, lo
 The maximum number of validators supported is 21.
 
 ## Economic Model 
-The endogenous token on the chain is HT; the transactions consume HT as gas fee.
+The endogenous token on the chain is TYCO; the transactions consume TYCO as gas fee.
 
-Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
+Miners pledge TYCO to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
 Assets such as BTC, ETH and stable coins can be mapped to Tyco by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Tyco. 
@@ -94,50 +94,50 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 ## Current Stage of Tyco
-In December 2020, the TYCO Chain, Tyco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
+In December 2023, the TYCO Chain, Tyco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
 Oracles, Voting tools, Anchor Coins, DEX, Lending, Financial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
-In October 2021,TYCO has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
+In October 2024,TYCO has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
 
 ## Support Plan of Tyco
 ### Financial Support
 - Tyco will set up a special fund to invest, support and incentivize high-potential developers.
 - Tyco will launch a variety of developer activities and competitions to discover and fund potential developers. 
-- In order to reduce the cost of users on Tyco Dapp, the Tyco meta transaction function will reduce the gas fee of users holding HT in a step-wise manner.
+- In order to reduce the cost of users on Tyco Dapp, the Tyco meta transaction function will reduce the gas fee of users holding TYCO in a step-wise manner.
 
 ### Resource Support
 - Projects or developers that have received investment and support from Tyco have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
 - High-quality projects can participate in Tyco global roadshows for free.
-- Huobi ventures TYCO fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
+- Tycoon ventures TYCO fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
 ### Participate in Test Environment of Tyco
 Official Website
 www.tycoscan.com
 
 Public Testnet
-chainid 256
+chainid 3640
 
 PRC
 wss://ws-testnet.tycoscan.com 
-https://http-testnet.tycoscan.com
+https://testnet-rpc.tycoscan.com
 
 Blockchain Explorer
-https://scan-testnet.tycoscan.com
+https://mainnet.tycoscan.com
 
 Test Coin Faucet
-https://scan-testnet.tycoscan.com/faucet
+https://faucet.tycoscan.com
 
 Technical Support Email
 DevContacts@tycoscan.com
 
 ## Interact with Us on Social Media
 
-- Twitter: https://twitter.com/TYCO_Chain
-- Telegram Channel: https://t.me/Huobiecochainofficial
-- Medium: https://medium.com/tyco-chain
-- GitHub: https://github.com/stars-labs/
-- TYCO Explorer: https://tycoinfo.com
-- Documentation: https://docs.tycoscan.com/
-- Website: https://www.tycoscan.com/en-us/
+- Twitter: 
+- Telegram Channel: 
+- Medium: 
+- GitHub: https://github.com/tyco-core/
+- TYCO Explorer: https://mainnet.tycoscan.com
+- Documentation: https://github.com/tyco-documentation/
+- Website: https://www.tycoscan.com/
   
 
 ## Risk Warning

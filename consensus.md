@@ -12,7 +12,7 @@ The difficulty value of a block is 2 when the block is generated normally and 1 
 ## Glossary 
 - validator. Responsible for packaging out blocks for on-chain transactions.
 - active validator. The current set of validators responsible for packing out blocks, with a maximum of 21.
-- epoch. Time interval in blocks, currently 1epoch = 200block on `Tyco`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
+- epoch. Time interval in blocks, currently 1epoch = 100block on `Tyco`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
 
 ## System contract
 [tyco-contracts](https://github.com/stars-labs/tyco-contracts)

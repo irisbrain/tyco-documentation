@@ -79,7 +79,7 @@ const mnemonic = fs.readFileSync(".secret").toString().trim();
 module.exports = {
   networks: {
     testnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-testnet.tycoscan.com'),
+      provider: () => new HDWalletProvider(mnemonic, 'https://testnet-rpc.tycoscan.com'),
       network_id: 256
     },
     mainnet: {
