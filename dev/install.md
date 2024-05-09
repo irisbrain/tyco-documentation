@@ -3,7 +3,7 @@
 ## Download
 Download source code via `git`
 ```
-    git clone https://github.com/stars-labs/tyco-chain.git
+    git clone https://github.com/tyco-core.git
 ```
 ## Install Golang
 Reference: [Go Download and install](https://golang.org/doc/install)

@@ -15,7 +15,7 @@ The difficulty value of a block is 2 when the block is generated normally and 1 
 - epoch. Time interval in blocks, currently 1epoch = 100block on `Tyco`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
 
 ## System contract
-[tyco-contracts](https://github.com/stars-labs/tyco-contracts)
+[tyco-contracts](https://github.com/tyco-contracts)
 
 The management of the current validators are all done by the system contracts.
 - Proposal  Responsible for managing access to validators and managing validator proposals and votes.
